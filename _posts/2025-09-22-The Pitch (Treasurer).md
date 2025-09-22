@@ -1,6 +1,6 @@
 ---
 title: The Pitch (Treasurer)
-date: 2025-09-22 15:40:00 +1000
+date: 2025-09-22 15:50:00 +1000
 categories: []
 tags: []     # TAG names should always be lowercase
 description: Why I'm running to be SecSoc's Treasurer in 2026.
