@@ -1,7 +1,9 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+title: About Me (Start Here!)
+date: 2025-09-22 16:40:00 +1000
+categories: [SecSoc]
+tags: []     # TAG names should always be lowercase
+description: smanojkumar@kestrel:~$ whoami
 ---
 
 # whoami
