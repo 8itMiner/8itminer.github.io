@@ -1,7 +1,7 @@
 ---
 title: The Pitch (VP Externals)
 date: 2025-09-22 15:40:00 +1000
-categories: [SecSoc]
+categories: []
 tags: []     # TAG names should always be lowercase
 description: Why I'm running to be SecSoc's VP Externals in 2026.
 ---
